@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_twister"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="twister"/>
+    <item
+        android:id="@+id/action_scale"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="scale"/>
+    <item
+        android:id="@+id/action_translate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="translate"/>
+
+</menu>
