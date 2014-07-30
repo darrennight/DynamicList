@@ -30,6 +30,7 @@ public final class R {
     }
     public static final class id {
         public static final int action_scale=0x7f080004;
+        public static final int action_scale_center=0x7f080006;
         public static final int action_translate=0x7f080005;
         public static final int action_twister=0x7f080003;
         public static final int image=0x7f080001;
