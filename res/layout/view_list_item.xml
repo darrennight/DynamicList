@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:paddingLeft="20dp"
         android:gravity="center"
-        android:text="Hello World"
+        android:text="Hello World!This is Dean.Ding"
         android:textSize="12sp" />
 
 </com.dk.view.FoldingView>
